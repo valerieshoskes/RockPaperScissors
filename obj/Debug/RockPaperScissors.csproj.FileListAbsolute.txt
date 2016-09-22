@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\rock-paper-scissors_Fall2016\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\rock-paper-scissors_Fall2016\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\rock-paper-scissors_Fall2016\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\rock-paper-scissors_Fall2016\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\rock-paper-scissors_Fall2016\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\WeCanCodeIT\Documents\visual studio 2015\Projects\rock-paper-scissors_Fall2016\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
